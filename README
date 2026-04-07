@@ -1,0 +1,14 @@
+ Galatasaray vs Fenerbahçe Maç Simülasyonu
+
+Bu proje, Python ile yazılmış senaryolu bir derbi maç simülasyonudur
+
+* Farklı maç senaryoları (dengeli, gol düellosu, sert maç vb.)
+* Canlı maç anlatımı
+* Gol, kart ve oyuncu değişiklikleri
+* Rastgele ama gerçekçi maç akışı
+
+```bash
+
+Amaç
+
+Python pratiği yapmak ve eğlenceli bir futbol simülasyonu oluşturmak.
